@@ -883,7 +883,7 @@ def process_docx_block(paragraphs):
 # ==============================================================================
 def main():
     st.set_page_config(page_title="Quiz Generator", page_icon="✈️", layout="centered")
-    st.title("✈️ Universal Quiz Generator")
+    st.title("✈️Keedam's Quiz Generator")
 
     if 'state' not in st.session_state:
         st.session_state.state = 'initial'
@@ -905,18 +905,19 @@ def main():
         uploaded_file = st.file_uploader(f"**2. Upload your .{file_type} file:**", type=[file_type])
 
         if uploaded_file:
-            temp_dir = "uploads"
-            os.makedirs(temp_dir, exist_ok=True)
-            temp_file_path = os.path.join(temp_dir, uploaded_file.name)
-            with open(temp_file_path, "wb") as f:
-                f.write(uploaded_file.getbuffer())
+            with st.spinner('Parsing your file... This may take a moment.'):
+                temp_dir = "uploads"
+                os.makedirs(temp_dir, exist_ok=True)
+                temp_file_path = os.path.join(temp_dir, uploaded_file.name)
+                with open(temp_file_path, "wb") as f:
+                    f.write(uploaded_file.getbuffer())
 
-            if 'Pattern 1' in parser_choice:
-                st.session_state.questions = parse_pdf_with_ans_lines(temp_file_path)
-            elif 'Pattern 2' in parser_choice:
-                st.session_state.questions = parse_pdf_with_answer_table(temp_file_path)
-            else: # Pattern 3
-                st.session_state.questions = parse_docx_with_bold_answers(temp_file_path)
+                if 'Pattern 1' in parser_choice:
+                    st.session_state.questions = parse_pdf_with_ans_lines(temp_file_path)
+                elif 'Pattern 2' in parser_choice:
+                    st.session_state.questions = parse_pdf_with_answer_table(temp_file_path)
+                else: # Pattern 3
+                    st.session_state.questions = parse_docx_with_bold_answers(temp_file_path)
             
             if st.session_state.questions:
                 st.session_state.state = 'quiz_started'
