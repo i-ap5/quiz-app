@@ -1,0 +1,6547 @@
+[
+  {
+    "paragraph_index": 0,
+    "text": "Technical general- test 02",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "Technical general- test 02",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 1,
+    "text": "During a correctly balanced turn:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "During a correctly balanced turn:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 2,
+    "text": "The thrust is the component of  the centrifugal force",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The thrust is the component of  the centrifugal force",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 3,
+    "text": "The centrifugal force directly balances the weight of the aircraft",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The centrifugal force directly balances the weight of the aircraft",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 4,
+    "text": "The lift force provides a centripetal force and a force that opposes the  weight of the aircraft",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The lift force provides a centripetal force and a force that opposes the  weight of the aircraft",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 5,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 6,
+    "text": "In a steady unaccelerated descent:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "In a steady ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "unaccelerated",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " descent:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 7,
+    "text": "Thrust is greater than the drag",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Thrust is greater than the drag",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 8,
+    "text": "Thrust is less than the drag and lift is less than the weight",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Thrust is less than the drag and lift is less than the weight",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 9,
+    "text": "Thrust is equal to drag and lift equal to the weight",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Thrust is equal to drag and lift equal to the weight",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 10,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 11,
+    "text": "Which of the following forces enables to make the aircraft turn level?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Which of the following forces enables to make the aircraft turn level?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 12,
+    "text": "Weigh.t",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Weigh",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": ".",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "t",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 13,
+    "text": "Lift",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Lift",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 14,
+    "text": "Thrust",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Thrust",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 15,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 16,
+    "text": "“Tuck under “  is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "“Tuck under “  is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 17,
+    "text": "The tendency to nose up when speed is increased into the transonic flight regime",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The tendency to nose up when speed is increased into the transonic flight regime",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 18,
+    "text": "The tendency to nose down when speed is increased into the transonic flight regime",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The tendency to nose down when speed is increased into the transonic flight regime",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 19,
+    "text": "The tendency to nose down when control column is pulled back",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The tendency to nose down when control column is pulled back",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 20,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 21,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 22,
+    "text": "A Machtrimmer :",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A Machtrimmer :",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 23,
+    "text": "Increase stick force per g at high mach numbers",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Increase stick force per g at high mach numbers",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 24,
+    "text": "Corrects insufficient stick force stability at high mach numbers",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Corrects insufficient stick force stability at high mach numbers",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 25,
+    "text": "Is necessary for compensation of the autopilot at high mach numbers",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Is necessary for compensation of the autopilot at high mach numbers",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 26,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 27,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 28,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 29,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 30,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 31,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 32,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 33,
+    "text": "After a disturbance about the lateral axis, an aeroplane  oscillates about the lateral  axis at constant amplitude, the aeroplane is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "After a disturbance about the lateral axis, an aeroplane  oscillates about the lateral  axis at constant amplitude, the aeroplane is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 34,
+    "text": "Statically unstable, dynamically  neutral",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Statically unstable, dynamically  neutral",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 35,
+    "text": "Statically stable, dynamically unstable",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Statically stable, dynamically unstable",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 36,
+    "text": "Statically stable, dynamically neutral",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Statically stable, dynamically neutral",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 37,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 38,
+    "text": "A light twin in a turn at 20°bank and 150 ky TAS. A more heavy aeroplane at same bank angle and same  speed will:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " light twin in a turn at 20",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "°",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "bank and 150 ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "ky",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " TAS. A more heavy aeroplane at same bank angle ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "and same  speed will:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 39,
+    "text": "Turn at the same radius",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Turn at the same radius",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 40,
+    "text": "Turn at bigger radius",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Turn at bigger radius",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 41,
+    "text": "Turn at smaller radius",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Turn at smaller radius",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 42,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 43,
+    "text": "The effect of the headwind is to ----- the climbe gradient and to ----- the rate of climb",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The effect of the headwind is to ----- the ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "climbe",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " gradient and to ----- the rate of climb",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 44,
+    "text": "Increase, No affect",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Increase, No affect",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 45,
+    "text": "Decrease, decrease",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Decrease, de",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "crease",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 46,
+    "text": "Decrease, increase",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Decrease, increase",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 47,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 48,
+    "text": "Adverse aileron yaw can be counteracted by:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Adverse aileron yaw can be counteracted by:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 49,
+    "text": "Aileron reversal",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Aileron reversal",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 50,
+    "text": "Differential ailerons",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Differential ailerons",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 51,
+    "text": "Aileron snatch",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Aileron snatch",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 52,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 53,
+    "text": "An advantage of locating the engines at the rear of the fuselage, in comparison to a location beneath the wing, is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " advantage of locating th",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "e engines at the rear of the fus",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "elage, in comparison to a location beneath the wing, is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 54,
+    "text": "Less influence on longitudinal control of thrust changes",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Less influence on longitudinal control of thrust changes",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 55,
+    "text": "A wing which is less sensitive to flutter",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A wing which is less sensitive to flutter",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 56,
+    "text": "Lighter wing construction",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Lighter wing construction",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 57,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 58,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 59,
+    "text": "An aeroplane has a servo tab controlled elevator. what will happen when only the elevator jams during flight?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An aeroplane has a servo tab controlled elevator. ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "what",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " will happen when only the elevator jams during flight?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 60,
+    "text": "The servo tab now works as negative trim tab",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The servo tab now works as negative trim tab",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 61,
+    "text": "The pitch control force doubles",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The pitch control force doubles",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 62,
+    "text": "Pitch control reverses direction",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Pitch control reverses direction",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 63,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 64,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 65,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 66,
+    "text": "The theoretical best range speed for jet aircraft is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The theoretical best range speed for jet aircraft is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 67,
+    "text": "Minimum drag speed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Minimum drag speed",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 68,
+    "text": "Minimum power speed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Minimum power speed",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 69,
+    "text": "1.32 times the minimum drag speed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "1.32 times the minimum drag speed",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 70,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 71,
+    "text": "The greatest gliding range would be obtained from a wing at:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The greatest gliding range would be obtained from a wing at:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 72,
+    "text": "At high AoA and max L/D ratio",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "At high ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "AoA",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " and max L/D ratio",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 73,
+    "text": "Small AoA and best L/D ratio",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Small ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "AoA",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " and best L/D ratio",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 74,
+    "text": "Small AoA and Minimum L/D ratio",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Small ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "AoA",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " and Minimum L/D ratio",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 75,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 76,
+    "text": "In a steady un accelerated glide:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "In a steady un accelerated glide:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 77,
+    "text": "Resultant aerodynamic force is equal to drag",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Resultant aerodynamic force is equal to drag",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 78,
+    "text": "Resultant aerodynamic force is equal to weight",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Resultant aerodynamic force is equal to weight",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 79,
+    "text": "Resultant aerodynamic force is equal to lift",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Resultant aerodynamic force is equal to ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "lift",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 80,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 81,
+    "text": "When an aircraft is in a climb at constant indicated airspeed:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "When an aircraft is in a climb at constant indicated airspeed:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 82,
+    "text": "Thrust is equal to the weight acting along the flight path",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Thrust is equal to the weight acting along the flight path",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 83,
+    "text": "Thrust is less than the drag",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Thrust is less than the drag",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 84,
+    "text": "The aerodynamic drag component is less than the thrust",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The aerodynamic drag component is less than the thrust",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 85,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 86,
+    "text": "In a level turn:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "In a level turn:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 87,
+    "text": "Lift equals the weight",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Lift equals the weight",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 88,
+    "text": "The component of the lift in the vertical direction equals the weight",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The component of the lift in the vertical direction equals the weight",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 89,
+    "text": "The component of the lift in the horizontal direction equals the weight",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The component of the lift in the horizontal direction equals the weight",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 90,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 91,
+    "text": "A control surface has its limitation in movement by:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A control surface has its limitation in movement by:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 92,
+    "text": "Control cable tension",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Control cable tension",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 93,
+    "text": "Primary stop at the control column",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Primary stop at the control column",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 94,
+    "text": "Primary stop at the control surface",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Primary stop at the control surface",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 95,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 96,
+    "text": "A horn balance in a control system has the following purpose",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A horn balance in a control system has the following purpose",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 97,
+    "text": "To prevent flutter",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "To prevent flutter",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 98,
+    "text": "To decrease stick force",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "To decrease stick force",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 99,
+    "text": "To decrease longitudinal dihedral",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "To decrease longitudinal dihedral ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 100,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 101,
+    "text": "A jet aeroplane equipped with inboard and outboard ailerons is cruising at normal mach no, in this case:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A jet aeroplane equipped with inboard and outboard ailerons is cruising at normal mach no, in this case:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 102,
+    "text": "Only inboard ailerons are active",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Only inboard ailerons are active",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 103,
+    "text": "Only outboard ailerons are active",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Only outboard ailerons are active",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 104,
+    "text": "Only spoilers will be active, not the ailerons",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Only spoilers will be active, not the ailerons",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 105,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 106,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 107,
+    "text": "The speed for maximum sink rate in a glide, compared to speed for maximum distance Vmd is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The speed for maximum sink rate in a glide, compared to speed for maximum distance ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Vmd",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 108,
+    "text": "Equal to Vmd",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Equal to ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Vmd",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 109,
+    "text": "Slower than Vmd",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Slower than ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "Vmd",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "  ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 110,
+    "text": "Faster than Vmd",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Faster than ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Vmd",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 111,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 112,
+    "text": "A control surface has its limitation in movement by:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A control surface has its limitation in movement by:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 113,
+    "text": "Control cable tension",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Control cable tension",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 114,
+    "text": "Primary stop at the control column",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Primary stop at the control column",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 115,
+    "text": "Primary stop at the control surface",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Primary stop at the control surface",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 116,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 117,
+    "text": "A horn balance in a control system has the following purpose",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A horn balance in a control system has the following purpose",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 118,
+    "text": "To prevent flutter",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "To prevent flutter",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 119,
+    "text": "To decrease stick force",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "To decrease stick force",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 120,
+    "text": "To decrease longitudinal dihedral",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "To decrease longitudinal dihedral ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 121,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 122,
+    "text": "A jet aeroplane equipped with inboard and outboard ailerons is cruising at normal mach no, in this case:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A jet aeroplane equipped with inboard and outboard ailerons is cruising at normal mach no, in this case:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 123,
+    "text": "Only inboard ailerons are active",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Only inboard ailerons are active",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 124,
+    "text": "Only outboard ailerons are active",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Only outboard ailerons are active",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 125,
+    "text": "Only spoilers will be active, not the ailerons",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Only spoilers will be active, not the ailerons",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 126,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 127,
+    "text": "An aircraft is placed in a level balanced turn and control released. It is spirally instable if:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An aircraft is placed in a level balanced turn and control released. It is spirally instable if:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 128,
+    "text": "The bank reduces",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The bank reduces",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 129,
+    "text": "Bank increases",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Bank increases",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 130,
+    "text": "Pitch attitude increases",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Pitch attitude increases",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 131,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 132,
+    "text": "At constant EAS, the effect on aerodynamic damping as height increases?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "At constant EAS, the effect on aerodynamic damping as height increases?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 133,
+    "text": "Damping in pitch is reduced",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Damping in pitch is reduced",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 134,
+    "text": "Damping in all axis increasesd",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Damping in all axis ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "increasesd",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 135,
+    "text": "Damping in all axis reduced",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Damping in all axis reduced",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 136,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 137,
+    "text": "Deflecting elevator up, when the trim tab is in neutral, will cause the tab to:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Deflecting elevator up, when the trim tab is in neutral, will cause the tab to:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 138,
+    "text": "Move up relative to the elevator chord line",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Move up relative to the elevator chord line",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 139,
+    "text": "Move down relative to the elevator chord line",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Move down relative to the elevator chord line",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 140,
+    "text": "Remain in line with elevator",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Remain in line with elevator",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 141,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 142,
+    "text": "An aircraft approaching to land with its CG at the forward limit. It will be----to flare and VREF will be ---- than normal",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An aircraft approaching to land with its CG at the forward limit. It will be----to flare and VREF will be ---- than normal",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 143,
+    "text": "Difficult, higher",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Difficult, higher",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 144,
+    "text": "Easy, lower",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Easy, lower",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 145,
+    "text": "Difficult, lower",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Difficult, lower",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 146,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 147,
+    "text": "An aircraft tendency to dutch roll may be reduced by:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An aircraft tendency to ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "dutch",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " roll may be reduced by:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 148,
+    "text": "Giving a wing anehedral",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Giving a wing ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "anehedral",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 149,
+    "text": "Reducing the size of fin",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Reducing the size of fin",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 150,
+    "text": "Sweeping the wings",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Sweeping the wings",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 151,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 152,
+    "text": "An example of differential aileron deflection during initiation of left turn is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An example of differential aileron deflection during initiation of left turn is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 153,
+    "text": "Left aileron 5° up, right aileron 2°down",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Left aileron 5",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "°",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " up, right aileron 2",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "°",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "down",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 154,
+    "text": "Left aileron 2° up, right aileron 5° down",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Left aileron 2",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "°",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " up, right aileron 5",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "°",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " down",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 155,
+    "text": "Left aileron 2°up, right aileron 5°up",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Left aileron 2",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "°",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "up, right aileron 5",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "°",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "up",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 156,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 157,
+    "text": "Control surface overbalancing may be result of:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Control surface overbalancing may be result of:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 158,
+    "text": "The control surface CP being located in front of the surface hinge line",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The control surface CP being located in front of the surface hinge line",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 159,
+    "text": "A sudden movement of the CP aft of the surface hinge line",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A sudden movement of the CP aft of the surface hinge line",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 160,
+    "text": "Applying excessive force to the controls",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Applying excessive force to the controls",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 161,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 162,
+    "text": "Differential aileron deflection:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Differential aileron deflection:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 163,
+    "text": "Increases the CLMax",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Increases the ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "CLMax",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 164,
+    "text": "Is required to keep the total lift constant when ailerons are deflected",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Is required to keep the total lift constant when ailerons are deflected",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 165,
+    "text": "Equals the drag of the right and left aileron",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Equals the drag of the right and left aileron",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 166,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 167,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 168,
+    "text": "During the initiation of a turn with speedsbrakes extended, the roll spoiler function induces a spoiler deflection:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "During the initiation of a turn with ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "speedsbrakes",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " extended, the roll spoiler function induces a spoiler deflection:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 169,
+    "text": "On the up going wing only",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "On the up going wing only",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 170,
+    "text": "On the downgoing wing only",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "On the ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "downgoing",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " wing only",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 171,
+    "text": "Downward on the upgoing and upward on the  downgoing wing",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Downward on the ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "upgoing",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " and upward on the  ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "downgoing",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " wing",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 172,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 173,
+    "text": "A propeller blade is twisted in order to:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A propeller blade is twisted in order to:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 174,
+    "text": "Keep the local angle of attack constant along the blade",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Keep the local angle of attack constant along the blade",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 175,
+    "text": "Allow higher mechanical stress",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Allow higher mechanical stress",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 176,
+    "text": "Avoid local transonic flo to develop on the propeller blades",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Avoid local transonic ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "flo",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " to develop on the propeller blades",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 177,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 178,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 179,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 180,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 181,
+    "text": "A propeller turning to the right, seen from behind. The asymmetric thrust effect in climb will:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A propeller turning to the right, seen from behind. The asymmetric thrust effect in climb will:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 182,
+    "text": "Roll to right",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Roll to right",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 183,
+    "text": "Yaw to left",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Yaw to left",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 184,
+    "text": "Yaw to right",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Yaw to right",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 185,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 186,
+    "text": "A propeller mounted forward of the engine is termed as:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A propeller mounted forward of the engine is termed as:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 187,
+    "text": "A paddle propeller",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A paddle propeller",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 188,
+    "text": "A tractor propeller",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A tractor propeller",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 189,
+    "text": "A pusher propeller",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A pusher propeller",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 190,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 191,
+    "text": "A propeller turns to right, seen from behind. The torque effect in take off will:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A propeller turns to right, seen from behind. The torque effect in ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "take off",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " will:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 192,
+    "text": "Roll the aeroplane to the left",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Roll the aeroplane to the left",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 193,
+    "text": "Pitch the aeroplane noseup",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Pitch the ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "aeroplane",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "noseup",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 194,
+    "text": "Roll the aeroplane to the right",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Roll the aeroplane to the right",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 195,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 196,
+    "text": "A twin engine aircraft is available in both jet and propeller variants. The engines are mounted on the wings in same position on both types. In case of failure of one engine, how would the engine torque effect show itself?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " A twin",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " engine aircraft is available in both jet and propeller variants. The engines are mounted on the wings in same position on both types. In case of failure of one engine, how would the engine torque effect show itself?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 197,
+    "text": "Jet roll toward live, propeller toward live",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Jet roll toward live, propeller toward live",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 198,
+    "text": "Jet roll toward dead, propeller roll toward dead",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Jet roll toward dead, propeller roll toward dead",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 199,
+    "text": "Jet no change, propeller roll in the direction of dead engine",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Jet no change, propeller roll in the direction of dead engine",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 200,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 201,
+    "text": "A variable pitch propeller during take off will move towards:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A variable pitch propeller during ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "take off",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " will move towards:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 202,
+    "text": "Coarse pitch to achieve highest possible thrust",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Coarse pitch to achieve highest possible thrust",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 203,
+    "text": "Fine pitch to ensure engine can develop maximum power",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Fine pitch to ensure engine can develop maximum power",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 204,
+    "text": "Fine pitch to ensure minimum aerodynamic drag is generated",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Fine pitch to ensure minimum aerodynamic drag is generated",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 205,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 206,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 207,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 208,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 209,
+    "text": "An engine failure can result in a (1) wind milling propeller, (2) non rotating propeller. Which statement about propeller drag is correct?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An engine failure can result in a (1) wind milling propeller, (2) non rotating propeller. Which statement about propeller drag is correct?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 210,
+    "text": "1 is larger than 2",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "1 is larger than 2",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 211,
+    "text": "2 is larger  than 1",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "2 is larger  than 1",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 212,
+    "text": "1 is equal to 2",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "1 is equal to 2",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 213,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 214,
+    "text": "Asymmetric propeller blade effect is mainly induced by:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " Asymmetric propeller blade effect is mainly induced by:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 215,
+    "text": "The inclination of the propeller axis to the relative airflow",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The inclination of the propeller axis to the relative airflow",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 216,
+    "text": "Large angles of climb",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Large angles of climb",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 217,
+    "text": "High speed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "High speed",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 218,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 219,
+    "text": "A commercial jet aeroplane is performing a straight descent at a constant mach no with constant weight. The operational limit that may be exceeded is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A commercial jet aeroplane is performing a straight descent at a constant mach no with constant weight. The operational limit that may be exceeded is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 220,
+    "text": "VNE",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VNE",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 221,
+    "text": "VMO",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VMO",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 222,
+    "text": "VD",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VD",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 223,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 224,
+    "text": "Constant speed propeller provide better performance than fixed pitch propeller because they:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Constant speed propeller provide better performance than fixed pitch propeller because they:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 225,
+    "text": "Produce an almost maximum efficiency over a wider speed range",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Produce an almost maximum efficiency over a wider speed range",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 226,
+    "text": "Have more blade surface area than a fixed pitch propeller",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Have more blade surface area than a fixed pitch propeller",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 227,
+    "text": "Produce greater maximum thrust than a fixed pitch propeller",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Produce greater maximum thrust than a fixed pitch propeller",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 228,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 229,
+    "text": "Flutter may be caused by",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Flutter may be caused by",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 230,
+    "text": "High speed aerodynamic wing stall",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "High speed aerodynamic wing stall",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 231,
+    "text": "Distortion by bending and torsion of the structure causing increasing vibration in the resonance frequency",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Distortion by bending and torsion of the structure causing increasing vibration in the resonance frequency",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 232,
+    "text": "Roll control reversal",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Roll control reversal",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 233,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 234,
+    "text": "Counter rotating propellers have the effect  of",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Counter rotating propellers have the effect  of ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 235,
+    "text": "increasing torque but decreasing the gyroscopic  effect",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "increasing torque but decreasing the gyroscopic  effect ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 236,
+    "text": "increasing torque and gyroscopic effecr",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "increasing torque and gyroscopic ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "effecr",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 237,
+    "text": "cancelling out the torque and gyroscopic effect",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "cancelling out the torque and gyroscopic effect",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 238,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 239,
+    "text": "Does the pitch angle of constant speed propeller alter in medium horizontal turbulence?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Does the pitch angle of constant speed propeller alter in medium horizontal turbulence?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 240,
+    "text": "Yes",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Yes",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 241,
+    "text": "No",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "No",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 242,
+    "text": "Yes, slightly",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Yes, slightly",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 243,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 244,
+    "text": "With a swept wing aircraft, with an increase in altitude, which of the following statements about lateral stability is correct?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " With a swept wing aircraft, with an increase in altitude, which of the following statements about lateral stability is correct?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 245,
+    "text": "Static lateral stability remains the same, dynamic lateral stability decreases",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Static lateral stability remains the same, dynamic lateral stability decreases",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 246,
+    "text": "Static lateral stability decrease, dynamic lateral stability increase",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Static lateral stability decrease, dynamic lateral stability increase",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 247,
+    "text": "Static lateral stability increases, dynamic lateral stability increase",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Static lateral stability increases, dynamic lateral stability increase",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 248,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 249,
+    "text": "Aileron reversal can be caused by:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Aileron reversal can be caused by:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 250,
+    "text": "Fries type aileron at low AoA",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Fries type aileron at low ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "AoA",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 251,
+    "text": "Twisting of wing above reversal sped",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Twisting of wing above reversal sped",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 252,
+    "text": "Both A and B",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Both A and B",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 253,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 254,
+    "text": "Which statement is correct for a sideslip condition at constant speed and side slip angle, where geometric dihedral of an aeroplane is increased?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " Which statement is correct for a sideslip condition at constant speed and side slip angle, where geometric dihedral of an aeroplane is increased?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 255,
+    "text": "The required lateral control force increases",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The required lateral control force increases",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 256,
+    "text": "The required lateral control force decreases",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The required lateral control force decreases",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 257,
+    "text": "The required lateral control force does not changed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The required lateral control force does not changed",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 258,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 259,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 260,
+    "text": "A jet transport aeroplane is in a straight climb at a constant IAS and weight. The operational limit that may be exceeded is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A jet transport aeroplane is in a straight climb at a constant IAS and weight. The operational limit that may be exceeded is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 261,
+    "text": "VMD",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VMD",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 262,
+    "text": "MMO",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "MMO",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 263,
+    "text": "VMO",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VMO",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 264,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 265,
+    "text": "Flutter can be eliminated using:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Flutter can be eliminated using:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 266,
+    "text": "T tail",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "T tail",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 267,
+    "text": "Powered flying controls",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Powered flying controls",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 268,
+    "text": "Mass balancing",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Mass balancing",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 269,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 270,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 271,
+    "text": "For airplane with high wing loading",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "For airplane with high wing loading",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 272,
+    "text": "Vertical gusts may have less influence on the load factor",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Vertical gusts may have less influence on the load factor",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 273,
+    "text": "Vertical gusts may have more influence on the load factor",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Vertical gusts may have more influence on the load factor",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 274,
+    "text": "Total drag is mainly profile drag",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Total drag is mainly profile drag",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 275,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 276,
+    "text": "For an aeroplane one fixed value of VA the following applies , VA is",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "For an aeroplane one fixed value of VA the following applies , VA is",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 277,
+    "text": "The speed at which unrestricted application of elevator can be used, without exceeding the maximum manoeuvring limit load factor",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The speed at which unrestricted application of elevator can be used, without exceeding the maximum ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "manoeuvring",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " limit load factor",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 278,
+    "text": "The speed at which aeroplane stalls at manoeuvring limit load factor at MTOW",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The speed at which ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "aeroplane",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " stalls at ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "manoeuvring",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " limit load factor at MTOW",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 279,
+    "text": "Just another symbol for rough air speed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Just another symbol for rough air speed",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 280,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 281,
+    "text": "The extreme right limitation for both V-n (gust and maneuver) diagram is created by the speed:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The extreme right limitation for both V-n (gust and maneuver) diagram is created by the speed:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 282,
+    "text": "VC",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VC",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 283,
+    "text": "VD",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VD",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 284,
+    "text": "VMO",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "VMO",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 285,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 286,
+    "text": "The positive limit load factor for a transport jet with flaps extended is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " The positive limit load factor for a transport jet with flaps extended is:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 287,
+    "text": "2.5",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "2.5",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 288,
+    "text": "2.0",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "2.0",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 289,
+    "text": "1.5",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "1.5",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 290,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 291,
+    "text": "The shape of gust load diagram is also determined by the following three vertical speeds ft/s (clean configuration)",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " The shape of gust load diagram is also determined by the following three vertical speeds ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "ft",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "/s (clean configuration)",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 292,
+    "text": "25,55.75",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "25,55.75",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 293,
+    "text": "25.50.66",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "25.50.66",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 294,
+    "text": "35.55.66",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "35.55.66",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 295,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 296,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 297,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 298,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 299,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 300,
+    "text": "What can happen to aeroplane structure flying at speed exceed VA",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "What can happen to aeroplane structure flying at speed exceed VA",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 301,
+    "text": "It may break  the elevator if it is fully deflected upwards",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "It ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "may break ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " the elevator",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " if it",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " is fully deflected upwards",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 302,
+    "text": "Permanent deformation",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Permanent deformation",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 303,
+    "text": "It may cause damage if a turn is executed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "It may cause damage if a turn is executed",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 304,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 305,
+    "text": "What is the danger when recovering from the emergency descent?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "What is the danger when recovering from the emergency descent?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 306,
+    "text": "Engine stall",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Engine stall",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 307,
+    "text": "Structural damage",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Structural damage",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 308,
+    "text": "Directional stability",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Directional stability",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 309,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 310,
+    "text": "What wing is less sensitive to turbulence",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "What wing is less sensitive to turbulence",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 311,
+    "text": "Swept",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Swept",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 312,
+    "text": "Straight",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Straight",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 313,
+    "text": "Winglets",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Winglets",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 314,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 315,
+    "text": "Which of the following lists aeroplane features that each increases static lateral stability?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Which of the following lists aeroplane features that each increases static lateral stability?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 316,
+    "text": "Fuselage mounted engines, dihedral, T tail",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Fuselage mounted engines, dihedral, T tail",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 317,
+    "text": "High wing, sweepback, large and high vertical fin",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "High wing, sweepback, large and high vertical fin",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 318,
+    "text": "Low wing, dihedral, elliptical wing planform",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Low wing, dihedral, elliptical wing ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "planform",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 319,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 320,
+    "text": "Which has the effect of increasing the load factor?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Which has the effect of increasing the load factor?",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 321,
+    "text": "Rearward CG location",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Rearward CG location",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 322,
+    "text": "Increased aeroplane mass",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Increased aeroplane mass",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 323,
+    "text": "Vertical gusts",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Vertical gusts",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 324,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 325,
+    "text": "A normal shock wave:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "\tA normal shock wave: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 326,
+    "text": "is a discontinuity plane where temperature decreases",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "is a discontinuity plane where temperature decreases ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 327,
+    "text": "is a discontinuity plane which is always normal to surface",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "is a discontinuity plane which is always normal to surface ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 328,
+    "text": "develops anytime an aircraft is in the transonic range",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "develops anytime an aircraft is in the transonic range ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 329,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 330,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 331,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 332,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 333,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 334,
+    "text": "A shock stall occurs when laminar flow breaks down:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A shock stall occurs when laminar flow breaks down: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 335,
+    "text": "at a high angle of attack and high Mach number",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "at a high angle of attack and high Mach number ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 336,
+    "text": "behind the leading edge",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "behind the leading edge ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 337,
+    "text": "behind the shock wave",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "behind the shock wave ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 338,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 339,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 340,
+    "text": "At what speed does a shock wave move forward over the ground?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "At what speed does a shock wave move forward over the ground? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 341,
+    "text": "aircraftÕs TAS",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "aircraftÕs",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " TAS",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 342,
+    "text": "speed of sound at ground level",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " speed of sound at ground level ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 343,
+    "text": "aircraftÕs ground speed",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "aircraftÕs",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " ground speed ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 344,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 345,
+    "text": "Compared to an oblique shock wave at the same Mach number, a normal shock wave has:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Compared to an oblique shock wave at the same Mach number, a normal shock wave has: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 346,
+    "text": "higher compression",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " higher compression ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 347,
+    "text": "lower compression",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " lower compression ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 348,
+    "text": "lower expansion",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " lower expansion ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 349,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 350,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 351,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 352,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 353,
+    "text": "Critical Mach number is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Critical Mach number is: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 354,
+    "text": "the highest speed at which no parts of the aircraft are supersonic",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "the highest speed at which no parts of the aircraft are supersonic ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 355,
+    "text": "the highest speed at which the aircraft is certified to fly (MMO",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " the highest speed at which the aircraft is certified to fly (MMO",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 356,
+    "text": "the highest speed at which all parts of the aircraft are subsonic (< M1 0)",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " the highest speed at which all parts of the aircraft are subsonic (< M1 0) ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 357,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 358,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 359,
+    "text": "How does an aircraft with swept wings behave due to shock stall?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "How does an aircraft with swept wings behave due to shock stall? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 360,
+    "text": "a nose up pitching moment will be generated",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "a nose up pitching moment will be generated ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 361,
+    "text": "a swept wing is not significantly affected by shock stall",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " a swept wing is not significantly affected by shock stall ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 362,
+    "text": "a nose down pitching moment will be generated",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " a nose down pitching moment will be generated ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 363,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 364,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 365,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 366,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 367,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 368,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 369,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 370,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 371,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 372,
+    "text": "How does the density and temperature of the airflow vary as it passes through a shock wave?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "How does the density and temperature of the airflow vary as it passes through a shock wave? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 373,
+    "text": "Density increases temperature increases",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Density increases temperature increases ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 374,
+    "text": "Density decreases temperature decreases",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Density decreases temperature decreases ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 375,
+    "text": "Density decreases temperature increases",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Density decreases temperature increases ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 376,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 377,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 378,
+    "text": "If it is required to increase the buffet margin from 0.3 g to 0.4 g which would be the correct action?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "If it is required to increase the buffet margin from 0.3 g to 0.4 g which would be the correct action? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 379,
+    "text": "Flaps increment increased",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Flaps increment increased ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 380,
+    "text": "Higher altitude at same Mach number",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Higher altitude at same Mach number ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 381,
+    "text": "Lower altitude at same Mach number",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Lower altitude at same Mach number ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 382,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 383,
+    "text": "If Mach trim is unserviceable you should:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "If Mach trim is unserviceable you should: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 384,
+    "text": "fly at a constant speed",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " fly at a constant speed ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 385,
+    "text": "limit the Mach number at which you fly",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "limit the Mach number at which you fly ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 386,
+    "text": "limit the Mach number at which you fly",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " limit the Mach number at which you fly ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 387,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 388,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 389,
+    "text": "In transonic flight the increase in drag is due to:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "In transonic flight the increase in drag is due to: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 390,
+    "text": "the increase in angle of attack",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " the increase in angle of attack ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 391,
+    "text": "the increase in parasite drag",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " the increase in parasite drag ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 392,
+    "text": "the shock wave",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "the shock wave ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 393,
+    "text": "Increasing speed above M CRIT in a swept wing aircraft could cause:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Increasing speed above M CRIT in a swept wing aircraft could cause: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 394,
+    "text": "increased lift requiring high speed tuck",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " increased lift requiring high speed tuck ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 395,
+    "text": "buffeting and nose-up pitch",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " buffeting and nose-up pitch ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 396,
+    "text": "buffeting and nose down pitch",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "buffeting and nose down pitch ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 397,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 398,
+    "text": "structural failure of the wing due to shockwave formation Is it acceptable for a transport aircraft to exceed the Mach buffet onset speed?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "structural",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " failure of the wing due to shockwave formation Is it acceptable for a transport aircraft to exceed the Mach buffet onset speed? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 399,
+    "text": "Yes to fly at maximum speed",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Yes to fly at maximum speed ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 400,
+    "text": "No totally unacceptable",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " No totally unacceptable ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 401,
+    "text": "Yes flying very high Mach number and very high altitude",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Yes flying very high Mach number and very high altitude ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 402,
+    "text": "Yes during approach",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Yes during approach ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 403,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 404,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 405,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 406,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 407,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 408,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 409,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 410,
+    "text": "Maximum cruise altitude is limited by minimum load factor. If that altitude is exceeded:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Maximum cruise altitude is limited by minimum load factor. If that altitude is exceeded: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 411,
+    "text": "Mach buffet will occur immediately",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Mach buffet will occur immediately ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 412,
+    "text": "turbulence may induce Mach buffet",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "turbulence may induce Mach buffet ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 413,
+    "text": "turbulence may exceed load factor",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " turbulence may exceed load factor ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 414,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 415,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 416,
+    "text": "Position/movement of the AC on straight wing aircraft when accelerating from subsonic to supersonic flight?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Position/movement of the AC on straight wing aircraft when accelerating from subsonic to supersonic flight? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 417,
+    "text": "Continues to move aft from the 25% chord position",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Continues to move aft from the 25% chord position ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 418,
+    "text": "Moves forward from the 25% chord to the leading edge",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Moves forward from the 25% chord to the leading edge ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 419,
+    "text": "Moves aft from the 25% chord position to the 50% chord position",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Moves aft from the 25% chord position to the 50% chord position ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 420,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 421,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 422,
+    "text": "A jet aircraft is in a level turn the pilot would have to increase:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A jet aircraft is in a level turn the pilot would have to increase: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 423,
+    "text": "thrust and leave angle of attack constant",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "thrust and leave angle of attack constant ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 424,
+    "text": "angle of attack and thrust",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "angle of attack and thrust ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 425,
+    "text": "thrust and decrease angle of attack",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "thrust and decrease angle of attack ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 426,
+    "text": "angle of attack and leave thrust constant",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "angle of attack and leave thrust constant ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 427,
+    "text": "A light twin is flying at 150 kt TAS in a 20 degree bank; a heavier aircraft is flying at same speed and angle of bank what will be the turn radius of the heavier aircraft?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "A light twin is flying at 150 ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "kt",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " TAS in a 20 degree bank; a heavier aircraft is flying at same speed and angle of bank what will be the turn radius of the heavier aircraft? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 428,
+    "text": "Smaller than the light aircraft",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "Smaller than the light aircraft ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 429,
+    "text": "Greater than the light aircraft",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "Greater than the light aircraft ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 430,
+    "text": "the same as the light aircraft",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "the same as the light aircraft ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 431,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 432,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 433,
+    "text": "what other factors affect the glide range?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "what",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " other factors affect the glide range? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 434,
+    "text": "CL MAX",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " CL MAX",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 435,
+    "text": "Lift/drag ratio",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Lift/drag ratio ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 436,
+    "text": "Weight and power required",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Weight and power required ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 437,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 438,
+    "text": "For an aircraft at a given altitude what is the relationship between the TAS for minimum sink rate and for minimum glide angle?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "For an aircraft at a given altitude what is the relationship between the TAS for minimum sink rate and for minimum glide angle? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 439,
+    "text": "V min sink rate = V min glide angle",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "V min sink rate = V min glide angle ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 440,
+    "text": "V min sink rate < V min glide angle or V min sink rate > V min glide angle depending on type of aircraft",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "V min sink rate < V min glide angle or V min sink rate > V min glide angle depending on type of aircraft ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 441,
+    "text": "V min sink rate < V min glide angle",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "V min sink rate < V min glide angle ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 442,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 443,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 444,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 445,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 446,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 447,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 448,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 449,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 450,
+    "text": "How does VMCG change with increasing field elevation and temperature?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "How does VMCG change with increasing field elevation and temperature? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 451,
+    "text": "It increases because with decreasing density you need a higher IAS to generate the same rudder force.",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "It increases because with decreasing density you need a higher IAS to generate the same rudder force. ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 452,
+    "text": "It increases because VMCG is related to V1 and VR and these speeds increase with decreasing density.",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " It increases because VMCG is related to V1 and VR and these speeds increase with decreasing density. ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 453,
+    "text": "It decreases because engine thrust decreases",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "It decreases because engine thrust decreases",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 454,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 455,
+    "text": "The effect of positive wing sweep on static directional stability is as follows:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The effect of positive wing sweep on static directional stability is as follows:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 456,
+    "text": "No effect",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "No effect",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 457,
+    "text": "Stabilizing effect",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Stabilizing effect",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 458,
+    "text": "Negative dihedral effect",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Negative dihedral effect",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 459,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 460,
+    "text": "The effect of vertical fin on the static stability of an aeroplane is as follows: (1=longitudinal, 2=lateral. 3= directional)",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The effect of vertical fin on the static stability of an aeroplane is as follows: (1=longitudinal, 2=lateral. 3= directional)",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 461,
+    "text": "No effect, positive, negative",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "No effect, positive, negative",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 462,
+    "text": "No effect, negative, positive",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "No effect, negative, positive",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 463,
+    "text": "Positive, negative, negative",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Positive, negative, negative",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 464,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 465,
+    "text": "The max aft position of the CG is amongst others limited by the :",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The max aft position of the CG is amongst others limited by the :",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 466,
+    "text": "Maximum elevator deflection",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Maximum elevator deflection",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 467,
+    "text": "Minimum value of stick force per g",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Minimum value of stick force per g",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 468,
+    "text": "Maximum longitudinal stability of the aeroplane",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Maximum longitudinal stability of the aeroplane",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 469,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 470,
+    "text": "What will increase the sensitivity of a dutch roll",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "What will increase the sensitivity of a ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "dutch",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " roll",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 471,
+    "text": "An increased static lateral stability",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An increased static lateral stability",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 472,
+    "text": "An increased static directional stability",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An increased static directional stability",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 473,
+    "text": "An increased anhedral",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "An increased ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "anhedral",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 474,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 475,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 476,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 477,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 478,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 479,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 480,
+    "text": "Propeller blade angle of attack is the angle between the chord and the:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Propeller blade angle of attack is the angle between the chord and the: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 481,
+    "text": "direction of axis of the propeller",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " direction of axis of the propeller ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 482,
+    "text": "aeroplane heading",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " aeroplane heading ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 483,
+    "text": "vector of True Air Speed",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " vector of True Air Speed ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 484,
+    "text": "relative airflow",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "relative airflow",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 485,
+    "text": "Propeller efficiency is best described as:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Propeller efficiency is best described as: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 486,
+    "text": "Brake HP to maximum power",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Brake HP to maximum power ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 487,
+    "text": "Thrust HP to shaft HP",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Thrust HP to shaft HP",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 488,
+    "text": "Thrust HP to overall power",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Thrust HP to overall power ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 489,
+    "text": "The advantage of a constant speed propeller over a fixed pitch propeller is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The advantage of a constant speed propeller over a fixed pitch propeller is: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 490,
+    "text": "nearly maximum efficiency over wide speed range",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "nearly maximum efficiency over wide speed range ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 491,
+    "text": "higher maximum thrust available",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " higher maximum thrust available ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 492,
+    "text": "higher maximum efficiency",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " higher maximum efficiency ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 493,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 494,
+    "text": "The angle of attack of a fixed pitch propeller designed for cruising flight measured at its reference station is:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The angle of attack of a fixed pitch propeller designed for cruising flight measured at its reference station is: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 495,
+    "text": "increases with an increase in TAS",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " increases with an increase in TAS",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 496,
+    "text": "decreases with an increase in RPM",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " decreases with an increase in RPM",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 497,
+    "text": "optimum in steady cruising flight only",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "optimum in steady cruising flight only ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 498,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 499,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 500,
+    "text": "What is the disadvantage of increasing the number of propeller blades?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "What is the disadvantage of increasing the number of propeller blades? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 501,
+    "text": "decreased power absorption",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " decreased power absorption ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 502,
+    "text": "increased noise",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " increased noise ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 503,
+    "text": "decreased efficiency",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "decreased efficiency ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 504,
+    "text": "increased vibration",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " increased vibration ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 505,
+    "text": "What is the purpose of increasing the number of propeller blades?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "What is the purpose of increasing the number of propeller blades? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 506,
+    "text": "Enable a longer undercarriage to be used",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Enable a longer undercarriage to be used ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 507,
+    "text": "Increase the efficiency of the variable pitch mechanism",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Increase the efficiency of the variable pitch mechanism",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 508,
+    "text": "Increase the power absorption",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Increase the power absorption ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 509,
+    "text": "Noise reduction",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " Noise reduction ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 510,
+    "text": "When an aircraft with a fixed pitch propeller climbs, the angle of attack of the propeller:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "When an aircraft with a fixed pitch propeller climbs, the angle of attack of the propeller: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 511,
+    "text": "reduces to zero",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " reduces to zero ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 512,
+    "text": "remain the same",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " remain the same ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 513,
+    "text": "Gets smaller",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "Gets smaller",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 514,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 515,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 516,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 517,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 518,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 519,
+    "text": "In which situation the wing lift of an aeroplane in straight and level flight have the highest value",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "In which situation the wing lift of an aeroplane in straight and level flight have the highest value",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 520,
+    "text": "Aft CG and take off thrust",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Aft CG and ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "take off",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " thrust",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 521,
+    "text": "Forward CG and idle  thrust",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Forward CG and idle  thrust",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 522,
+    "text": "Aft CG and idle thrust",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Aft CG and idle thrust",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 523,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 524,
+    "text": "A swept wing for given AoA and wing area:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " A swept wing for given ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "AoA",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " and wing area:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 525,
+    "text": "Increases lateral stability with reduced tip stall tendency",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Increases lateral stability with reduced tip stall tendency",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 526,
+    "text": "More laterally stable and produce less lift",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "More laterally stable and produce less lift",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 527,
+    "text": "Produce more lift and more laterally stable",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Produce more lift and more laterally stable",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 528,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 529,
+    "text": "Longitudinal static stability is created by the fact that the:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": " Longitudinal static stability is created by the fact that the:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 530,
+    "text": "Wing surface is the greater than horizontal tail surface",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Wing surface is the greater than horizontal tail surface",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 531,
+    "text": "CG is located in the front of the neutral point of aeroplane",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "CG is located in the front of the neutral point of aeroplane",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 532,
+    "text": "Aeroplane possesses a large trim speed range",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Aeroplane possesses a large trim speed range",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 533,
+    "text": "",
+    "style_name": "List Paragraph",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 534,
+    "text": "What wing design features will help increase MCRIT?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "What wing design features will help increase MCRIT? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 535,
+    "text": "Negative camber sweepback",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Negative camber sweepback ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 536,
+    "text": "Dihedral thin aerofoil",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Dihedral thin ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "aerofoil",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 537,
+    "text": "Sweep back thin aerofoil",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Sweep back thin ",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": "aerofoil",
+        "is_bold": true,
+        "is_italic": false
+      },
+      {
+        "text": " ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 538,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": " ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 539,
+    "text": "When airflow becomes supersonic the pressure distribution on the top surface of the wing will become:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "When airflow becomes supersonic the pressure distribution on the top surface of the wing will become: ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 540,
+    "text": "triangular",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "triangular ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 541,
+    "text": "the same as subsonic",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "the same as subsonic ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 542,
+    "text": "rectangular",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "rectangular ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 543,
+    "text": "When an aircraft is flying at supersonic speed where will be the area of influence of any pressure disturbance due to the presence of the aircraft be located?",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "When an aircraft is flying at supersonic speed where will be the area of influence of any pressure disturbance due to the presence of the aircraft be located? ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 544,
+    "text": "In front of the normal shock wave",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "In front of the normal shock wave ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 545,
+    "text": "In front of the mach cone",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "In front of the mach cone ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 546,
+    "text": "Within the mach cone",
+    "style_name": "Normal",
+    "runs_details": [
+      {
+        "text": "\t ",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": "Within the mach cone ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 547,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 548,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 549,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 550,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 551,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 552,
+    "text": "If the sum of all the moment s in flight is not zero about one of the axis, an aeroplane will:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "If the sum of all the moment s in flight is not zero about one of the axis, an aeroplane will:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 553,
+    "text": "Would fly a path with a constant curvature",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Would fly a path with a constant curvature",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 554,
+    "text": "Would experience an angular acceleration about that axis",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Would experience an angular acceleration about that axis ",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 555,
+    "text": "Would be difficult to control",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Would be difficult to control",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 556,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 557,
+    "text": "In a twin jet powered aeroplane where engines are mounted below the wings, the thrust is suddenly increased. Which elevator deflection is required to maintain the pitching moment to zero:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "In a twin jet powered aeroplane where engines are mounted below the wings, the thrust is suddenly increased. Which elevator deflection is required to maintain the pitching moment to zero:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 558,
+    "text": "Up",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Up",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 559,
+    "text": "Down",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Down",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 560,
+    "text": "None",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "None",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 561,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 562,
+    "text": "Superstall is a condition:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Superstall",
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "text": " is a condition:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 563,
+    "text": "Where aircraft is in a spin",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Where aircraft is in a spin",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 564,
+    "text": "Stable stall with almost constant pitch attitude",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Stable stall with almost constant pitch attitude",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 565,
+    "text": "Where wings have stall at high speed",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "Where wings have stall at high speed",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 566,
+    "text": "",
+    "style_name": "Normal",
+    "runs_details": []
+  },
+  {
+    "paragraph_index": 567,
+    "text": "When the control column is moved forward and  to the right:",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "When the control column is moved forward and  to the right:",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 568,
+    "text": "The elevator goes up, right aileron moves up and left aileron goes down",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The elevator goes up, right aileron moves up and left aileron goes down",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 569,
+    "text": "The elevator goes down, right aileron moves up and left aileron goes down",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The elevator goes down, right aileron moves up and left aileron goes down",
+        "is_bold": true,
+        "is_italic": false
+      }
+    ]
+  },
+  {
+    "paragraph_index": 570,
+    "text": "The elevator goes down, right aileron moves down and left aileron goes up",
+    "style_name": "List Paragraph",
+    "runs_details": [
+      {
+        "text": "The elevator goes down, right aileron moves down and left aileron goes up ",
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  }
+]
